@@ -1,0 +1,2 @@
+This is the new file created you can see the content
+ of first file : Hello this is the first txt file
